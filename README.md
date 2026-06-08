@@ -1,16 +1,83 @@
-## Hi there 👋
+# Cybersecurity, Networking, and Computer Science Projects
 
-<!--
-**corbla/corbla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my project repository! This repository serves as a central location for my cybersecurity, networking, and computer science projects. It showcases my technical skills, hands-on experience, and continuous learning as I pursue a career in cybersecurity.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Cybersecurity student with a passion for technology, problem-solving, and learning how systems work. Through these projects, I explore topics including:
+
+- Cybersecurity
+- Network Administration
+- System Security
+- Programming and Automation
+- Ethical Hacking
+- Operating Systems
+- Cloud Technologies
+- IT Infrastructure
+
+My goal is to build practical experience and develop skills that can be applied in both academic and professional environments.
+
+## Repository Structure
+
+Projects are organized into categories:
+
+### Cybersecurity
+Projects related to:
+- Vulnerability Assessment
+- Security Analysis
+- Risk Management
+- Security Tools
+- Ethical Hacking Labs
+- Digital Forensics
+
+### Networking
+Projects related to:
+- Network Design
+- Routing and Switching
+- Network Troubleshooting
+- Packet Analysis
+- Cisco Technologies
+- Network Security
+
+### Computer Science
+Projects related to:
+- Python Programming
+- Data Structures and Algorithms
+- Software Development
+- Automation Scripts
+- Object-Oriented Programming
+- Problem Solving
+
+## Technologies and Tools
+
+Some of the technologies and tools used throughout these projects include:
+
+- Python
+- Git & GitHub
+- Linux
+- Windows
+- Cisco Packet Tracer
+- Wireshark
+- Nmap
+- VMware
+- PowerShell
+- Java
+
+## Current Goals
+
+- Build a strong cybersecurity portfolio
+- Gain practical networking experience
+- Improve programming and automation skills
+- Earn industry certifications
+- Develop real-world security projects
+
+## Contact
+
+Feel free to connect with me:
+
+- LinkedIn: www.linkedin.com/in/corbin-blanco-8232563a4
+
+
+---
+
+**Continuous learning, continuous improvement.**
