@@ -81,7 +81,3 @@ Feel free to connect with me:
 
 - LinkedIn: www.linkedin.com/in/corbin-blanco-8232563a4
 
-
----
-
-**Continuous learning, continuous improvement.**
