@@ -18,6 +18,9 @@ Hello, i'm Corbin, a Cybersecurity student with a passion for technology, proble
 
 My goal is to build practical experience and develop skills that can be applied in both academic and professional environments.
 
+## Certifications
+Google Cybersecurity Professional: https://www.coursera.org/account/accomplishments/specialization/TVSOVLFLM7BA
+
 ## Repository Structure
 
 Projects are organized into categories:
