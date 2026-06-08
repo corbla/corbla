@@ -1,10 +1,11 @@
 # Cybersecurity, Networking, and Computer Science Projects
 
 Welcome to my project repository! This repository serves as a central location for my cybersecurity, networking, and computer science projects. It showcases my technical skills, hands-on experience, and continuous learning as I pursue a career in cybersecurity.
+www.linkedin.com/in/corbin-blanco-8232563a4
 
 ## About Me
 
-I am a Cybersecurity student with a passion for technology, problem-solving, and learning how systems work. Through these projects, I explore topics including:
+Hello, i'm Corbin, a Cybersecurity student with a passion for technology, problem-solving, and learning how systems work. Through these projects, I explore topics including:
 
 - Cybersecurity
 - Network Administration
